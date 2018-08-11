@@ -4,7 +4,7 @@
 
 # Author: Matthew Renze
 
-# Usage: python.exe Summarize.py [input-file] [output-file]
+# Usage: python.exe Summarize.py input-file output-file
 # - input-file - the CSV file containing Google location data
 # - output-file - the CSV file to contain the daily summaries
 

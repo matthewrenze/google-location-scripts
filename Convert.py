@@ -4,7 +4,7 @@
 
 # Author: Matthew Renze
 
-# Usage: python.exe Convert.py [input-file] [output-file]
+# Usage: python.exe Convert.py input-file output-file
 #   - input-file - the Google location JSON file to be converted
 #   - output-file - the CSV file to be created from the conversion
 

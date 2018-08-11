@@ -4,7 +4,7 @@
 
 # Author: Matthew Renze
 
-# Usage: python.exe ReverseGeocode.py [input-file] [output-file]
+# Usage: python.exe ReverseGeocode.py input-file output-file
 #   - input-file - the CSV file containing Google Location data
 #   - output-file - the CSV file containing reverse-geocoded locations
 
